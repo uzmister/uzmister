@@ -1,16 +1,95 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Ruslan!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
 
-<!--
-**uzmister/uzmister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "banner.jpg"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/uzmister" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E242A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/uzmister" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/uzmister" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1E242A?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/uzmister" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-1E242A?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://x.com/uzmister" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1E242A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- <h1 align="center">About Me:</h1> -->
+
+---
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJlZWF2ZDR2Z2diN2FyM2dibmR4cDdxa3hmZHAzdW42NWYwZWx4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="250" align="left" style="margin-left: 20px;" />
+<br/>
+
+<p>
+Hello There! <em><b> I'm Ruslan </b></em>, a Full-stack Developer. I build, craft and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- <p align="center">
+   <em><b> Target International School '26 </b></em> <br/>
+   <em><b> Building Vinex.uz </b></em><br/>
+   <em><b> Front-End Developer & UI/UX Designer </b></em><br/>
+</p> -->
+
+<br/>
+
+---
+
+<br/>
+
+<!-- <h2 align="center"> <img src="/images/title2.png" width="25"/> <em> Technologies </em> </h2> -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E242A?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E242A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1E242A?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-1E242A?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1E242A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1E242A?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+<!-- <h2 align="center""> <img src="/images/title3.png" width="25"/> <em> Statistics </em> </h2> -->
+
+<div align = "center"> 
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=uzmister&theme=github-dark-blue&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)<br/><br/>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzmister&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
+
+---
+
+<!-- <h3 align="center"> <em> Visitor Count </em> </h3> -->
+
+<div align = "center">
+
+<h2>Visitor Count:</h2>
+
+![Visitor Count](https://count.getloli.com/@uzmister?name=uzmister&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=1&darkmode=auto)
+  
+</div>
+
